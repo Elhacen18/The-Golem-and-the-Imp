@@ -51,8 +51,7 @@ while True:
             print("Please enter invalid inputs.")
             continue
 
-        Imp_escaped = GISimple(impSpd,golemSpd,headStart,exitPosition)
-        print(Imp_escaped)
+        GISimple(impSpd,golemSpd,headStart,exitPosition)
         break
     except ValueError:
         print("Please enter intigers only")
