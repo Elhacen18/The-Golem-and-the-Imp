@@ -50,8 +50,6 @@ while True:
         if exitPosition <0 or exitPosition>50 :
             print("Please enter invalid inputs.")
             continue
-
-        GISimple(impSpd,golemSpd,headStart,exitPosition)
         break
     except ValueError:
         print("Please enter intigers only")
