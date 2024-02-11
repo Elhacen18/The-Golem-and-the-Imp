@@ -49,6 +49,6 @@ Elhacen Elmoustapha
 ## Version History
 NA
 ## License
-NA
+If you are currently taking CSE PYTHON & DATA ANALYTICS at the University of Louisville, please do not copy this code. 
 ## Acknowledgments
 NA
